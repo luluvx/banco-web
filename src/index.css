@@ -1,0 +1,120 @@
+.container-principal {
+    max-width: 1200px !important;
+    background-color: #171717;
+    padding: 2rem;
+    border-radius: 10px;
+
+}
+.container-menu{
+    padding: 25px !important;
+    max-width: 1200px !important;
+    margin: auto;
+}
+.navbar-menu-principal{
+    background-color: #0f0f0f !important;
+}
+.logo{
+    font-weight: bolder;
+    font-size: 30px !important;
+
+}
+.navbar-menu-principal a{
+    color: #f9f9f9;
+}
+
+body {
+    background-color: #131313 !important;
+    font-family: 'Poppins', sans-serif !important;
+}
+.card{
+    background-color: #1f1f1f !important;
+    border-radius: 10px !important;
+    padding: 20px !important;
+    margin: 10px !important;
+    color: #f9f9f9 !important;
+}
+.card-title{
+    color: #f9f9f9 !important;
+    font-weight: bold !important;
+    text-align: center !important;
+    margin-top: 10px !important;
+    font-size: 30px !important;
+    margin-bottom: 40px !important;
+}
+.card .card-subtitle{
+    color: #ffffff !important;
+    font-weight: 500 !important;
+    text-align: center !important;
+    margin-top: 10px !important;
+    font-size: 20px !important;
+    margin-bottom: 40px !important;
+}
+.form-control{
+    background-color: #333333 !important;
+    color: #f9f9f9 !important;
+    border-radius: 5px !important;
+    padding: 10px !important;
+    border: none !important;
+}
+.form-label{
+    color: #f9f9f9 !important;
+    font-weight: 600;
+    margin-bottom: 10px !important;
+}
+.card button{
+    background-color: #206ff4 !important;
+    color: #f9f9f9 !important;
+    padding: 10px !important;
+    font-weight: bold !important;
+    margin-top: 20px !important;
+    border: none;
+}
+
+.card-cuenta .card-title{
+    margin-bottom: 10px !important;
+
+}
+.card-cuenta .card-subtitle{
+    margin-bottom: 40px !important;
+}
+.card-cuenta .card-text{
+    margin-bottom: 5px !important;
+}
+
+.card-portal {
+    text-align: left !important;
+    background-color: #1a1a1a !important;
+}
+.card-portal .card-title{
+    font-size: 90px !important;
+    text-align: left !important;
+    margin-bottom: 20px !important;
+}
+.card-portal .card-subtitle{
+    font-size: 20px !important;
+    text-align: left !important;
+    font-weight: 300 !important;
+}
+
+.card-movimiento{
+    border-radius: 0 !important;
+    border-bottom: 2px solid #595858!important;
+}
+
+.card-movimiento .hora {
+    color: #f9f9f9 !important;
+}
+.card-movimiento .numero-cuenta{
+    color: #f9f9f9 !important;
+    font-weight: bold !important;
+}
+
+.beneficiario-card button{
+    width: 100% !important;
+}
+
+.beneficiario-card .card-subtitle{
+    font-size: 20px !important;
+    font-weight: bold !important;
+    margin-bottom: 18px !important;
+}
